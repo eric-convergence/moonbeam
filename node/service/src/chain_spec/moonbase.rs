@@ -74,7 +74,7 @@ pub fn development_chain_spec(mnemonic: Option<String>, num_accounts: Option<u32
 				accounts.clone(),
 				3_000_000 * UNIT,
 				Default::default(), // para_id
-				1281,               //ChainId
+				1282,               //ChainId
 			)
 		},
 		vec![],
